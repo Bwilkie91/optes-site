@@ -1,5 +1,5 @@
 /* =========================================================================
-   Optes Parameter Intelligence — NULL SIGNAL
+   Optes Perimeter Intelligence — NULL SIGNAL
    Tiny vanilla-JS progressive enhancement. Zero dependencies.
 
    Responsibilities (all optional, all guarded):

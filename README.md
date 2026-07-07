@@ -1,6 +1,6 @@
-# Optes — Parameter Intelligence (teaser)
+# Optes — Perimeter Intelligence (teaser)
 
-A single-page, zero-dependency teaser for **Optes Parameter Intelligence**: a privately
+A single-page, zero-dependency teaser for **Optes Perimeter Intelligence**: a privately
 deployed sensing platform that surfaces the quiet pattern preceding a threat and resolves
 many signals into one record you can stand behind — on ground that stays yours.
 
