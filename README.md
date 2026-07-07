@@ -28,8 +28,8 @@ Two things to set for your environment:
   find-and-replace of `briefing@optes.ai` across `index.html` (the top-bar CTA, hero CTA,
   closing CTA, the CTA hint, and the footer all share the same `mailto:` link).
 - **Domain.** The canonical URL, the Open Graph / Twitter URLs and image, plus `robots.txt`
-  and `sitemap.xml` assume `https://optes.ai/`. If you launch on a different domain, update
-  those occurrences (search for `optes.ai`).
+  and `sitemap.xml` use `https://www.optesllc.com/`. If you launch on a different domain,
+  update those occurrences.
 
 ## Social card
 
